@@ -1,0 +1,1 @@
+login-gov.logo.svg - cropped out https://login.gov/assets/img/logo.svg
